@@ -17,17 +17,17 @@ brew install git
 
 # install ligatures
 brew tap homebrew/cask-fonts
-brew cask install font-fira-code
+brew install --cask font-fira-code
 
 # install brave browser
-brew cask install brave
+brew install --cask brave
 
 # install vscode
 brew cask search visual-studio-code
-brew cask install visual-studio-code
+brew install --cask visual-studio-code
 
 # install slack
-brew cask install slack
+brew install --cask slack
 
 # install yarn
 brew install yarn
@@ -36,16 +36,16 @@ brew install yarn
 npm install -g n
 
 # install sequel pro
-brew cask install sequel-pro
+brew install --cask sequel-pro
 
 # install postman
-brew cask install postman
+brew install --cask postman
 
 # install iTerm2
-brew cask install iterm2
+brew install --cask iterm2
 
 # install flux
-brew cask install flux
+brew install --cask flux
 
 # install zoom
-brew cask install zoomus
+brew install --cask zoomus
