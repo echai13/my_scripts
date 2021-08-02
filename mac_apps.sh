@@ -48,4 +48,4 @@ brew install --cask iterm2
 brew install --cask flux
 
 # install zoom
-brew install --cask zoomus
+brew install zoom
