@@ -23,7 +23,7 @@ brew install --cask font-fira-code
 brew install --cask brave
 
 # install vscode
-brew cask search visual-studio-code
+brew search --cask visual-studio-code
 brew install --cask visual-studio-code
 
 # install slack
